@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://yourdomain.com/script1.lua"))()
+
+loadstring(game:HttpGet("https://yourdomain.com/script2.lua"))()
+
+loadstring(game:HttpGet("https://yourdomain.com/script3.lua"))()
+
+loadstring(game:HttpGet("https://yourdomain.com/script4.lua"))()
